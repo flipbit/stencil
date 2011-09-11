@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stencil", "Stencil\Stencil.csproj", "{C0232F76-AB41-4965-B2D9-0ACB63E69337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stencil.Test", "Stencil.Test\Stencil.Test.csproj", "{9C33E6E6-DC7D-471C-8435-1C2BF77ACD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0232F76-AB41-4965-B2D9-0ACB63E69337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0232F76-AB41-4965-B2D9-0ACB63E69337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0232F76-AB41-4965-B2D9-0ACB63E69337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0232F76-AB41-4965-B2D9-0ACB63E69337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C33E6E6-DC7D-471C-8435-1C2BF77ACD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C33E6E6-DC7D-471C-8435-1C2BF77ACD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C33E6E6-DC7D-471C-8435-1C2BF77ACD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C33E6E6-DC7D-471C-8435-1C2BF77ACD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
