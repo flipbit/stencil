@@ -8,7 +8,7 @@ Stencil is a micro Inversion of Control container.  It was written with the foll
 
 ##Configuration
 
-Using stencil is easy.  Copy and paste the Stencil.cs file into your project.  The container can be accessed via a built-in Singleton or by creating a new instance of the Stencil class.
+Using stencil is easy.  Copy and paste the [Stencil.cs](https://raw.github.com/flipbit/stencil/master/Source/Stencil/Stencil.cs) file into your project.  The container can be accessed via a built-in Singleton or by creating a new instance of the Stencil class.
 
 ```c#
 // Using the Singleton
