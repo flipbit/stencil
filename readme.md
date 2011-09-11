@@ -95,7 +95,9 @@ If a child object references a parent, the value of the parent is set to null.
 
 ##Generic Lists
 
-Generic lists are supported for properties implementing an IList.  The list is instantiated with all objects in the container matching the declared interface.  This is useful for implementing Visitor [Visitor pattern](http://en.wikipedia.org/wiki/Visitor_pattern) and Chain-of-responsibility [Chain-of-responsibility pattern](http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern) patterns.
+Generic lists are supported for properties implementing an IList.  The list is instantiated with all objects 
+in the container matching the declared interface.  This is useful for implementing [Visitor](http://en.wikipedia.org/wiki/Visitor_pattern) 
+and [Chain-of-responsibility](http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern) patterns.
 
 ```c#
 public interface IFizzBuzz
